@@ -1,0 +1,9 @@
+Halo pak Sandhika, perkenalkan saya Adrian dari Jakarta. 
+
+Resolusi saya :
+- Menyelesaikan pembelajaran Web Development dasar.
+- Membuat website portofolio dengan menggunakan framework HTML seperti Bootstrap atau Tailwind.
+- Memahami dasar pemrograman Javascript.
+
+Impian saya :
+- Menjadi seorang Senior Backend Developer dengan menggunakan bahasa Python maupun PHP atau bahkan Javascript.
